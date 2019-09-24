@@ -4,3 +4,5 @@ Line added in feature.
 
 Change for the first.
 Change for the second.
+
+This is an entirely new change.
